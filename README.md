@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @bodysmi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bodysmi/bodysmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in GAMES
+- 🌱 I’m currently learning ROBOTICS
+- 📫 How to reach me now.
